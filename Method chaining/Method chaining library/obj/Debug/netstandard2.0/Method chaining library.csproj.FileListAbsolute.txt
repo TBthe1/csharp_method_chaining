@@ -1,0 +1,9 @@
+D:\Google Drive\Programmeren\C#\Method chaining\Method chaining\Method chaining library\bin\Debug\netstandard2.0\Method chaining library.deps.json
+D:\Google Drive\Programmeren\C#\Method chaining\Method chaining\Method chaining library\bin\Debug\netstandard2.0\Method chaining library.dll
+D:\Google Drive\Programmeren\C#\Method chaining\Method chaining\Method chaining library\bin\Debug\netstandard2.0\Method chaining library.pdb
+D:\Google Drive\Programmeren\C#\Method chaining\Method chaining\Method chaining library\obj\Debug\netstandard2.0\Method chaining library.csprojAssemblyReference.cache
+D:\Google Drive\Programmeren\C#\Method chaining\Method chaining\Method chaining library\obj\Debug\netstandard2.0\Method chaining library.csproj.CoreCompileInputs.cache
+D:\Google Drive\Programmeren\C#\Method chaining\Method chaining\Method chaining library\obj\Debug\netstandard2.0\Method chaining library.AssemblyInfoInputs.cache
+D:\Google Drive\Programmeren\C#\Method chaining\Method chaining\Method chaining library\obj\Debug\netstandard2.0\Method chaining library.AssemblyInfo.cs
+D:\Google Drive\Programmeren\C#\Method chaining\Method chaining\Method chaining library\obj\Debug\netstandard2.0\Method chaining library.dll
+D:\Google Drive\Programmeren\C#\Method chaining\Method chaining\Method chaining library\obj\Debug\netstandard2.0\Method chaining library.pdb

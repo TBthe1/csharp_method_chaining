@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhCmCW28vcrDKaq6YRr41b/qeOGp0MreRHp4XV2GnfTtse8zMOK+rC6TE4MoNkcD7Ets8v31sgekcGM7P0bVcw==",
+  "success": true,
+  "projectFilePath": "D:\\Google Drive\\Programmeren\\C#\\Method chaining\\Method chaining\\Method chaining library\\Method chaining library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
